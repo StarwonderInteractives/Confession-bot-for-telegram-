@@ -117,5 +117,6 @@ Runs smoothly on GitHub Codespaces, even from your phone.
 ## 🌐 Check it out
 🔗 [View Bot](https://t.me/Confessy_Bot)
 
+---
 
-**Note:Bot needs to be an admin of that group**
+**Note: Bot needs to be an admin of that group**
