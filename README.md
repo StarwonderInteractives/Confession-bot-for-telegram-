@@ -112,20 +112,4 @@ Runs smoothly on GitHub Codespaces, even from your phone.
 
 5. 🔥 Any group that needs more activity
 
-
-
-
----
-
-📢 Support
-
-1. 📝 Open a GitHub Issue for help
-
-
-2. 🎯 Request new features
-
-
-3. 🛠 Ask for customization
-
-
-4. 🚀 Suggest improvements
+Note:Bot needs to be an admin of that group 
